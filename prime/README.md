@@ -31,4 +31,4 @@ Worst Case:
 O(√n)
 
 ## Program Output
-![prime numbers](/prime/Screenshot(11).png)
+![prime numbers](/prime/Screenshot.png)
