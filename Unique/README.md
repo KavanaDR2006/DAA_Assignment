@@ -30,4 +30,7 @@ Worst Case
 O(n²)
 
 ## Program Output
-![Graph](/Unique/Screenhot.png)
+![Unique](/Unique/Screenshot.png)
+## Graph
+
+![Graph](uni_graph.png)
