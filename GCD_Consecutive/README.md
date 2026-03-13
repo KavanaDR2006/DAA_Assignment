@@ -33,4 +33,4 @@ Worst Case
 O(n)
 
 ## Program Output
-![GCD](Screenshot(13).png)
+![GCD](Screenshot.png)
