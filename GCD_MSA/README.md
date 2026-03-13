@@ -32,4 +32,4 @@ Worst Case
 O(n)
 
 ## Program Output
-![GCD_MSA](Screenshot (14).png)
+![GCD_MSA](Screenshot.png)
