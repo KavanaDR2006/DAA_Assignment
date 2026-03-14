@@ -49,7 +49,7 @@ Time Complexity = **O(2ⁿ)**
 ## Program Output
 
 Example output
-![Tower of Hanoi Graph](Screenshot (23).png)
+![Tower of Hanoi Graph](Screenshot.png)
 
 ---
 
