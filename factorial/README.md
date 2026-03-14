@@ -58,7 +58,7 @@ Example output produced for input sizes from 1 to 29 with step 2.
 
 Factorial Running Time Graph
 
-![Factorial Graph](graph.png)
+![Factorial Graph](fact_graph.png)
 
 ---
 
