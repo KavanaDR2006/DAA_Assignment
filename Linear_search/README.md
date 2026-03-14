@@ -95,9 +95,9 @@ Element found at position 28
 Running Time = 0.000002 seconds
 ```
 ##Program Output
-![Linear Search Running Time Graph](Screenshot (26).png)
+![Linear Search Running Time Graph](Screenshot.png)
 
-![Linear Search Running Time Graph](Screenshot (27).png)
+![Linear Search Running Time Graph](Screenshot.png)
 ---
 
 ## Running Time Analysis
@@ -141,7 +141,7 @@ The graph shows that the running time increases linearly with the input size.
 
 The following graph shows the running time for Best Case, Average Case, and Worst Case of Linear Search.
 
-![Linear Search Running Time Graph](linear_search_running_time_graph.png)
+![Linear Search Running Time Graph](linear_graph.png)
 ---
 
 ## Observation
